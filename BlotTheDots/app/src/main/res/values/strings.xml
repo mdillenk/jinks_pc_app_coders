@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BlotTheDots</string>
+    <string name="imageviewerbackground">imageViewerBackground</string>
+    <string name="startButton">Start</string>
+</resources>
